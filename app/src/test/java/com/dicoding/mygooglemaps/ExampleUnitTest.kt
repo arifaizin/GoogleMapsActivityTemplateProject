@@ -1,4 +1,4 @@
-package com.dicoding.googlemapsactivitytemplateproject
+package com.dicoding.mygooglemaps
 
 import org.junit.Test
 

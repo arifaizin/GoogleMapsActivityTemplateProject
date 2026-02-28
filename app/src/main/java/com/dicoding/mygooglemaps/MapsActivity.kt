@@ -1,4 +1,4 @@
-package com.dicoding.googlemapsactivitytemplateproject
+package com.dicoding.mygooglemaps
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -9,7 +9,7 @@ import com.google.android.gms.maps.OnMapReadyCallback
 import com.google.android.gms.maps.SupportMapFragment
 import com.google.android.gms.maps.model.LatLng
 import com.google.android.gms.maps.model.MarkerOptions
-import com.dicoding.googlemapsactivitytemplateproject.databinding.ActivityMapsBinding
+import com.dicoding.mygooglemaps.databinding.ActivityMapsBinding
 
 class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
 

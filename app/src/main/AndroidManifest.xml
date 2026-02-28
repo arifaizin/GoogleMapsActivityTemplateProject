@@ -8,8 +8,9 @@
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.GoogleMapsActivityTemplateProject"
+        android:theme="@style/Theme.MyGoogleMaps"
         tools:targetApi="31">
 
         <!--
@@ -25,7 +26,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="YOUR_API_KEY" />
+            android:value="AIzaSyDbcVlY8dZSFXrovAo-uGLg6pMVzL04-0Q" />
 
         <activity
             android:name=".MapsActivity"
